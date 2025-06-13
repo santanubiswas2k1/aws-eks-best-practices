@@ -1,5 +1,5 @@
 # Python image to use.
-FROM python:3.7
+FROM python:3.12.11
 
 # Set the working directory to /app
 WORKDIR /src
